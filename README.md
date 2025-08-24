@@ -77,7 +77,7 @@ ORDER BY total_revenue DESC;
 
 | File Name                    | Description                                   |
 |-----------------------------|-----------------------------------------------|
-| `SQL - Retail Sales Analysis_utf .csv` | Raw retail sales dataset                    |
+| `SQL - Retail Sales Analysis_utf .csv` | Raw retail sales dataset            |
 | `sql_query_p1.sql`          | SQL queries executing your EDA and insights    |
 | `README.md`                 | This project overview                         |
 
